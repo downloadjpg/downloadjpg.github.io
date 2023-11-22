@@ -14,7 +14,7 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Brody Foster # the main title
+title: Brody Foster's Portfolio # the main title
 
 tagline: Computer Science and Math student at the University of Florida # it will display as the sub-title
 
@@ -27,9 +27,6 @@ url: "https://brodricfoster.com"
 
 github:
   username: downloadjpg # change to your github username
-
-#twitter:
-#  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
@@ -61,7 +58,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light|dark]
+theme_mode:  dark
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -110,7 +107,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl:
+#baseurl:
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
