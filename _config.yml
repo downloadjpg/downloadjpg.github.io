@@ -14,7 +14,7 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Brody Foster's Portfolio # the main title
+title: Brody Foster # the main title
 
 tagline: Computer Science and Math student at the University of Florida # it will display as the sub-title
 
